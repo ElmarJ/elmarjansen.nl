@@ -15,4 +15,4 @@ header_pages:
   - index.md
 style: dark # dark (default), light or hacker
 listen_for_clients_preferred_style: true # false (default) or true
-footer: '<a href="https://twitter.com/elmarj" rel="me">twitter</a> | <a href="https://www.goodreads.com/user/show/11607541-elmar-jansen" rel="me">goodreads</a> | <a href="https://github.com/ElmarJ" rel="me">github</a> | <a href="https://facebook.com/elmarjansen" rel="me">facebook</a> | <a href="https://www.linkedin.com/in/elmarjansen/" rel="me">linkedin</a><br>e-mail: <a href="mailto:elmar@elmarjansen.nl" rel="me">elmar@elmarjansen.nl</a>'
+footer: '<a class="h-card" rel="me" href="https://elmarjansen.nl/">Elmar Jansen</a><br><a href="https://twitter.com/elmarj" rel="me">twitter</a> | <a href="https://www.goodreads.com/user/show/11607541-elmar-jansen" rel="me">goodreads</a> | <a href="https://github.com/ElmarJ" rel="me">github</a> | <a href="https://facebook.com/elmarjansen" rel="me">facebook</a> | <a href="https://www.linkedin.com/in/elmarjansen/" rel="me">linkedin</a><br>e-mail: <a href="mailto:elmar@elmarjansen.nl" rel="me">elmar@elmarjansen.nl</a>'
