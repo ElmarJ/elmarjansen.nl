@@ -11,8 +11,8 @@ Welkom op de pagina van Elmar Jansen. Dingen die ik zoal doe of ben:
 
 Een aantal pagina's die ik heb gemaakt:
 
- - [Rose Heuff](https://roseheuff.nl)
- - [Alice Heuff](https://aliceheuff.nl)
+ - [Rose Heuff](http://roseheuff.nl)
+ - [Alice Heuff](https://aliceheuff.com)
  - [Casual UvA](https://casual-uva.nl)
  - [Code Rood Netwerk](https://coderood.net)
  - [De Losse Tegels Podcast](https://delossetegels.nl)
