@@ -7,7 +7,9 @@ Welkom op de pagina van Elmar Jansen. Dingen die ik zoal doe of ben:
  - Programmeren, o.a. aan [Waterlooplein 3D](https://waterlooplein3d.nl)
  - Muziek maken (bluegrass-gitaar in [Last Night in Town](https://lastnightintown.nl) en tenor in een aantal klassieke koren)
 
-Websites die ik heb gemaakt en beheer:
+## Websites
+
+Een aantal pagina's die ik heb gemaakt:
 
  - [Rose Heuff](https://roseheuff.nl)
  - [Alice Heuff](https://aliceheuff.nl)
