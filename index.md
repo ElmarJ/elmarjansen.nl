@@ -17,3 +17,6 @@ Een aantal pagina's die ik heb gemaakt:
  - [Code Rood Netwerk](https://coderood.net)
  - [De Losse Tegels Podcast](https://delossetegels.nl)
  - [Waterlooplein 3D](https://waterlooplein3d.nl)
+
+## Links:
+ - <a rel="me" href="https://mastodon.social/@elmarj">Mastodonprofiel</a>
